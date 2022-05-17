@@ -5,4 +5,4 @@ const coloreUtente = prompt("Colore preferito")
 // NICKNAME
 const NickName = document.getElementById("nickname");
 NickName.innerHTML = `${nomeUtente}${cognomeUtente}${coloreUtente}22`;
-console.log(spanNickName);
+console.log(NickName);
